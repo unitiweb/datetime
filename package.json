@@ -1,0 +1,14 @@
+{
+  "name": "lf-datetime",
+  "version": "0.1.0",
+  "description": "Library to handle specific DateTime functions",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Torres <dave@unitiweb.com>",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
